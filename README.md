@@ -4,8 +4,8 @@ Welcome To Our Project👋
 
 <a href="#"><img width="15%" height="auto" src="https://thumbs.dreamstime.com/b/movie-illustration-logo-vector-design-film-178252125.jpg"/></a>
 
-
-Clone of Pluralsight (https://splendid-creponne-e9a1c5.netlify.app)
+# Deploy Link Here
+https://splendid-creponne-e9a1c5.netlify.app
  <hr>
 
 
