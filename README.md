@@ -2,7 +2,7 @@ Welcome To Our Project👋
 
 # Project Name - Hotstar Online movie Watch
 
-<a href="#"><img width="15%" height="auto" src="https://www.pluralsight.com/content/dam/ps-nav-assets/pluralsight-company-white-logo.png"/></a>
+<a href="#"><img width="15%" height="auto" src="https://thumbs.dreamstime.com/b/movie-illustration-logo-vector-design-film-178252125.jpg"/></a>
 
 
 Clone of Pluralsight (https://splendid-creponne-e9a1c5.netlify.app)
