@@ -27,6 +27,12 @@ It's my major project Hotstart is an online Watch Movie. implemented all the fea
 
 ## Project Screenshots
 
+![image](https://user-images.githubusercontent.com/101393695/198825819-0badac24-adb4-4daa-b7b2-91127a17828f.png)
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/101393695/198825839-aea3064c-230b-4809-8a1a-02017698598c.png)
+
 
 
 
