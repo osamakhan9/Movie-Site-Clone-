@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>
+        <link rel="stylesheet" href="./styles/index.css">
+    </head>
+
+    <body>
+        <div id="navbar">
+            <a href="./index.html"><h2>Home</h2></a>
+            <a href="./signup.html"><h2>Signup</h2></a>
+            <a href="./login.html"><h2>Login</h2></a>
+        </div>
+        <div id="slideshow">
+            <!--Show Slideshow here-->
+            <div></div>
+            <!-- <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9308/1269308-h-26da4df3decc" alt=""> -->
+        </div>
+
+        <div id="sort-buttons" >
+            <select id="sort" onchange="change()"> 
+                <option value="none">None</option>
+                <option value="Trending Movie">Trending Movie</option>
+                <option value="Hollywood Movie">Hollywood Movie</option>
+                <option value="Bollywood Movie">Bollywood Movie</option>
+                <option value="Tollywood Movie">Tollywood Movie</option>
+            </select>
+        </div> 
+        <div id="movies">
+               
+        </div>
+    </body>
+</html>
+<script src="./scripts/index.js"></script>

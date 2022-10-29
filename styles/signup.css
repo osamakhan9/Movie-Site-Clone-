@@ -1,0 +1,39 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+#signup-form-div{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+input{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: 15px;
+    height: 40px;
+
+}
+button{
+    display: block;
+    margin: auto;
+    height: 35px;
+    width: 40%;
+    margin-bottom: 25px;
+    border: none;
+    background-color: rgb(54, 175, 125);
+    color: white;
+    font-size: 17px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: teal;
+}
